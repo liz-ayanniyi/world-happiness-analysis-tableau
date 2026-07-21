@@ -123,7 +123,7 @@ Combined all visualisations into a single dashboard to present key findings in a
 
 ## GDP Per Capita vs Happiness Score
 
-![GDP vs Happiness](gdp-vs-happiness-scatter-plot.png)
+![GDP vs Happiness score](gdp-vs-happiness-score.png)
 
 ---
 
