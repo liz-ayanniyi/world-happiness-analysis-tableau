@@ -12,6 +12,12 @@ The project demonstrates my ability to create dashboards, analyse relationships 
 
 ---
 
+## 📊 Dashboard Preview
+
+![World Happiness Dashboard](world-happiness-dashboard.png)
+
+---
+
 # 🎯 Project Objectives
 
 The objectives of this project were to:
