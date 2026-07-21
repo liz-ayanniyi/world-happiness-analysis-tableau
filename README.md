@@ -105,31 +105,31 @@ Combined all visualisations into a single dashboard to present key findings in a
 
 ## Dashboard Overview
 
-![Dataset Overview](excel-dataset.png)
+![World Happiness Dashboard](world-happiness-dashboard.png)
 
 ---
 
 ## Top 15 Happiest Countries
 
-![Analysis](analysis.png)
+![Top 15 Happiest Countries](top-15-happiest-countries-bar-chart.png)
 
 ---
 
 ## World Happiness Map
 
-![Output](output.png)
+![World Happiness Map](world-happiness-map.png)
 
 ---
 
 ## GDP Per Capita vs Happiness Score
 
-![Output](output.png)
+![GDP vs Happiness](gdp-vs-happiness-scatter-plot.png)
 
 ---
 
 ## Average Happiness Factors Comparison
 
-![Output](output.png)
+![Average Happiness Factors](average-happiness-factors-comparison.png)
 
 ---
 
